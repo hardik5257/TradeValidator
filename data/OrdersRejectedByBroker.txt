@@ -1,0 +1,10 @@
+Ameriprise Financial -> 1,7,9,15,30,33,44
+Fidelity -> 4,23
+Charles Schwab -> 2,21
+National Planning Corporation -> 4,13,15,25,37
+Edward Jones -> 11,12,18,32,49
+Raymond James Financial -> 39
+AXA Advisors -> 16,22,46,47
+Wells Fargo Advisors -> 9,28,39,52,61,74,80,85
+TD Ameritrade -> 6,20,27
+LPL Financial -> 33,34,42
